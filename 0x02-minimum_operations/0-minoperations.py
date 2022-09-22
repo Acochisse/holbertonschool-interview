@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/usr/bin/python3
 """
 Module: evaluates the minimum number of operations to reach n printed 'H's
 operations: copy all, paste
